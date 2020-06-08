@@ -122,9 +122,7 @@ header .headLegend--wrapper .headGraphic .circle { width: 20px; height: 20px; bo
     .blockWrapper--center .blockWrapper .block span { font-size: 35px; }
     header .headLegend--wrapper .headGraphic:after { width: calc(50% - 50px); }
     header .headLegend--wrapper .headGraphic:before { width: calc(50% - 50px); }
-
-
-    /*.blockWrapper--center .blockWrapper { width: 100%; }*/
+    .backgroundImg { bottom: -100px; }
 }
 
 
